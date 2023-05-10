@@ -1,0 +1,107 @@
+{
+  "id": "3916155",
+  "name": "AIA",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "基于ChatGPT的项目",
+  "glyphs": [
+    {
+      "icon_id": "34366378",
+      "name": "断开连接",
+      "font_class": "duankailianjie",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "1304896",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1305476",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "2593619",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "5460560",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "ec2e",
+      "unicode_decimal": 60462
+    },
+    {
+      "icon_id": "5744727",
+      "name": "import",
+      "font_class": "-daochu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "6337626",
+      "name": "收益",
+      "font_class": "shouyi",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "7009055",
+      "name": "logo",
+      "font_class": "budaidise",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "11372711",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    },
+    {
+      "icon_id": "11558682",
+      "name": "对话2",
+      "font_class": "duihua",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "25537523",
+      "name": "剪切",
+      "font_class": "jianqie",
+      "unicode": "e7cc",
+      "unicode_decimal": 59340
+    },
+    {
+      "icon_id": "1374",
+      "name": "信号",
+      "font_class": "xinhao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "201555",
+      "name": "表情",
+      "font_class": "biaoqing",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
